@@ -1,9 +1,9 @@
 // Site URL
-const SITE_URL = 'https://test.thimpress.com';
+const SITE_URL = 'https://campus.vivanlosjovenes.edu.gt';
 
 // PRODUCTS_IAP moved to setup in the LearnPress Settings > Mobile App > Courses In App Purchases
 
-const COPYRIGHTS = 'Eduma app 2022. All rights reserved';
+const COPYRIGHTS = 'Vijoven app 2022. All rights reserved';
 
 const CODE_PUSH = {
   ios: '',
